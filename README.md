@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java and cpp
 - 💞️ I’m looking to collaborate on python projects
 - Donations: *comming soon*
-- 📫 How to reach me: Twitter:@lunarboi_ Mail:ykeremuteu@gmail.com
+- 📫 How to reach me: Twitter:@lunarboi_
 
 <!---
 devlunar/devlunar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
