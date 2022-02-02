@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devlunar
 - 👀 I’m interested in contributing to projects and starting new ones!
-- 🌱 I’m currently learning java and cpp
+- 🌱 I’m currently learning html, css, js and firebase
 - 💞️ I’m looking to collaborate on all type of projects
 - Donations: *comming soon*
 - 📫 How to reach me: Twitter:@lunarboi_
